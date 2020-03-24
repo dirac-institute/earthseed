@@ -14,6 +14,8 @@ March 23, 2020:
 - **I have yet to** save the new testing set within the data directory
 - **I have yet to** augment the new testing set with `avocado`
 
+- **I encountered** issues with pushing to Github from Epyc
+
 ## Subdirectories
 - *background*: Vocabulary and questions regarding neural networks, Tensor Flow
 - *notebooks*: Data exploration, Gaussian Process exploration
