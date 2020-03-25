@@ -9,12 +9,9 @@ Every time we observe the Universe in a new way, we discover new phenomena. The 
 - `avocado` on [Read the Docs](https://avocado-classifier.readthedocs.io/en/latest/)
 
 ## Progress
-March 23, 2020:
-- **I have** isolated one class from the training set, all within a Jupyter notebook
-- **I have yet to** save the new testing set within the data directory
-- **I have yet to** augment the new testing set with `avocado`
-
-- **I encountered** issues with pushing to Github from Epyc
+March 24, 2020:
+- **I fixed** the issues with pushing to Github from Epyc - yay!
+- **I have yet to** sync up my Github and Epyc directory structure. I want to do this so that all the work that I do / progress that I make goes straight to Github.
 
 ## Subdirectories
 - *background*: Vocabulary and questions regarding neural networks, Tensor Flow
