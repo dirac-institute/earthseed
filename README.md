@@ -9,9 +9,11 @@ Every time we observe the Universe in a new way, we discover new phenomena. The 
 - `avocado` on [Read the Docs](https://avocado-classifier.readthedocs.io/en/latest/)
 
 ## Progress
-March 24, 2020:
-- **I fixed** the issues with pushing to Github from Epyc - yay!
-- **I have yet to** sync up my Github and Epyc directory structure. I want to do this so that all the work that I do / progress that I make goes straight to Github.
+March 26, 2020:
+- **I have** synced up my Github and Epyc directory structure.
+- **I have** gotten most of my favorite aliases set up in Epyc.
+- **I have yet to** orient myself with respect to `avocado` settings and put in the settings that are most useful to me.
+- **I have yet to** save the updated (one-class-removed) training set outside the Jupyter notebook where it was created.
 
 ## Subdirectories
 - *background*: Vocabulary and questions regarding neural networks, Tensor Flow
