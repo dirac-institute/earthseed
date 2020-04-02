@@ -9,10 +9,9 @@ Every time we observe the Universe in a new way, we discover new phenomena. The 
 - `avocado` on [Read the Docs](https://avocado-classifier.readthedocs.io/en/latest/)
 
 ## Progress
-March 26, 2020:
-- **I have** synced up my Github and Epyc directory structure.
-- **I have** gotten most of my favorite aliases set up in Epyc.
-- **I have yet to** orient myself with respect to `avocado` settings and put in the settings that are most useful to me.
+April 2, 2020:
+- **I have** been awarded the NSF Graduate Research Fellowship. Yay!!!
+- **I have yet to** explore `avocado.plasticc.PlasticcAugmentor`. I'm doing this because somewhere in there is an educated way to save augmented plasticc data as a `.h5` file, and I too would like to learn how to do that. Because...
 - **I have yet to** save the updated (one-class-removed) training set outside the Jupyter notebook where it was created.
 
 ## Subdirectories
