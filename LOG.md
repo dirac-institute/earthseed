@@ -11,3 +11,9 @@ March 23, 2020:
 March 24, 2020:
 - **I have** fixed the issues with pushing to Github from Epyc - yay!
 - **I have yet to** sync up my Github and Epyc directory structure. I want to do this so that all the work that I do / progress that I make goes straight to Github.
+
+March 26, 2020:
+- **I have** synced up my Github and Epyc directory structure.
+- **I have** gotten most of my favorite aliases set up in Epyc.
+- **I have yet to** orient myself with respect to `avocado` settings and put in the settings that are most useful to me.
+- **I have yet to** save the updated (one-class-removed) training set outside the Jupyter notebook where it was created.
